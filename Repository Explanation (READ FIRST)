@@ -1,7 +1,7 @@
 The order of the Jupyter notebooks is as follows:
 
 1. Artist_Outsourcing_and_Genre_Attribution.ipynb
-2. -> Cleaning Data -> Cleaning Data.ipynb
+2. -> Cleaning Data -> Cleaning_Data.ipynb
 3. -> Analysis -> Data_Analysis_and_Classifier_Preparation.ipynb
 4. -> Classification -> Logistic_Regression_Classification.ipynb
 
